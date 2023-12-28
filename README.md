@@ -5,7 +5,7 @@ E-bank-application est une simple application cmd qui permet la gestion des agen
        Mise à jour des comptes 
        Affichage d'un compte précis ou de tous les comptes 
        Suppression d'un compte 
-# #Gestion des clients :
+## Gestion des clients :
        Ajout des clients
        Modification des données des clients 
        Suppression d'un client 
