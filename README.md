@@ -24,4 +24,9 @@ E-bank-application est une simple application cmd qui permet la gestion des agen
 ## Conversion des devises 
 
 ## Remarque:
-Dans les fichiers joints, vous trouverez des vidéos illustrant l'utilisation de cette application, ainsi que le code source du programme.
+Dans les fichiers joints, vous trouverez des vidéos illustrant l'utilisation de cette application, ainsi que le code source du programme
+## téléchargement de E-app.exe
+  1. Créez un nouveau dossier sur votre ordinateur(important puisque l'application utilise des fichiers)
+  2. Téléchargez le fichier E-app.exe
+  3. Placez le fichier E-app.exe dans le dossier que vous avez créé
+  4. Lancez l'application
